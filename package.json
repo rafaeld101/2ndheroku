@@ -1,0 +1,5 @@
+{
+  "name": "herokuApp",
+  "private": true,
+  "dependencies": {}
+}
